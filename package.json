@@ -1,0 +1,23 @@
+{
+  "name": "pmap",
+  "version": "1.0.0",
+  "description": "squaremap implementation",
+  "main": "public/index.js",
+  "scripts": {
+    "test": "http-server",
+    "build": "echo \"nothing yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r0wanda/pmap.git"
+  },
+  "author": "rowan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r0wanda/pmap/issues"
+  },
+  "homepage": "https://github.com/r0wanda/pmap#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
